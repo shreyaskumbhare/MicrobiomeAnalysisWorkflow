@@ -1,1 +1,2 @@
 # MicrobiomeAnalysisWorkflow
+This is my first GitHub repository for the Microbiome analysis carried out to understand the gut microbial diversity of healthy full term mother-infant dyads in an Indian sub-population. This work is published in FEMS Microbiology letters. The link to the publication can be found here: https://academic.oup.com/femsle/article-abstract/367/3/fnaa022/5735435?redirectedFrom=fulltext
