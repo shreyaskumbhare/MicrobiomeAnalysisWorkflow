@@ -1,2 +1,2 @@
 # MicrobiomeAnalysisWorkflow
-This is my first GitHub pages repository for Microbiome analysis invloving the targeted amplicon sequencing data analysis.
+This is my first GitHub pages repository for Microbiome analysis for targeted amplicon (16S rRNA gene) sequencing data analysis.
